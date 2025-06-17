@@ -24,7 +24,7 @@ This website was created as a part of my full-stack development course. Though s
 ## 🌐 Live Demo
 
 👉 [Click here to view the live site](#)  
-(*Add your actual hosted link once you're ready!*)
+
  
  ## A Note from Me
 
